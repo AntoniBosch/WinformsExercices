@@ -1,0 +1,1 @@
+Repository for the introductory Winforms exercices in SPDVI 2020.
